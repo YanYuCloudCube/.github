@@ -84,6 +84,21 @@
 
 ---
 
+## 🗂️ 仓库矩阵（2026-10-29 审计版）
+
+| 仓库 | 定位 | 状态 |
+|------|------|------|
+| [YYC3-FAmily-Pai](https://github.com/YanYuCloudCube/YYC3-FAmily-Pai) | AI Family 旗舰 · `@yyc3/ui` `@yyc3/cli` `@yyc3/ai-hooks` 发布源 | 🟢 活跃开发 |
+| [YYC3-Family-AI](https://github.com/YanYuCloudCube/YYC3-Family-AI) | AI 智能编程平台 | 🟡 维护模式（CI 已整合修复，2026-10） |
+| [YYC3-QATS](https://github.com/YanYuCloudCube/YYC3-QATS) | 量化交易系统 | 🟡 储备 |
+| [yyc3-i18n-core](https://github.com/YanYuCloudCube/yyc3-i18n-core) | i18n 框架（镜像） | 📦 已归档 · 发布源 [YYC-Cube/YYC3-i18n-Core](https://github.com/YYC-Cube/YYC3-i18n-Core) |
+| [YYC3-AI-PAI](https://github.com/YanYuCloudCube/YYC3-AI-PAI) | AI-PAI（镜像） | 📦 已归档 · 发布源 [YYC-Cube/YYC3-AI-PAI](https://github.com/YYC-Cube/YYC3-AI-PAI) |
+| 本仓（.github） | 组织门面与社区健康文件 | 🟢 维护中 |
+
+> 个人账号 [YYC-Cube](https://github.com/YYC-Cube?tab=repositories) 承载开发真身；本组织承载发布与展示。
+
+---
+
 ## 🌟 快速开始
 
 ### 🚀 本地运行
